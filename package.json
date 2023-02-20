@@ -3,7 +3,7 @@
 	"displayName": "MacOS Modern Theme",
 	"description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
 	"version": "2.3.15",
-	"publisher": "davidbwaters",
+	"publisher": "dez64ru",
 	"engines": {
 		"vscode": "^1.25.0"
 	},
